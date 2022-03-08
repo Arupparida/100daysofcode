@@ -1,5 +1,6 @@
 package com.company;
 //this code snipet is for variables java
+
  /*
  Teacher notes
 	Instance & Static:
