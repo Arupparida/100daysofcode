@@ -1,5 +1,6 @@
 # 100daysofcode
-Resources : https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
+Resources : [GitHub Pages](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/)
+Inspiration source: [**100 days of code**](https://www.100daysofcode.com/)
 
-## week1  <br>
+## Week-1  <br>
  Target: java  Basics <br>
