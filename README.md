@@ -1,4 +1,4 @@
-# 100daysofcode
+# 100DaysOfCode
 Resources : [**Geeksforgeeks**](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/)\
 Inspiration source: [**100 days of code**](https://www.100daysofcode.com/)\
 Drive link to resources :[Drive](https://drive.google.com/drive/u/2/folders/1d1LNzN2lFfWXJABCrDUJ0zrRzf7FRzu2)\
