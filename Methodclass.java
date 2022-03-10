@@ -1,4 +1,5 @@
 package com.company;
+//
 //This class is for instance methods only.
 public class Methodclass {
 
