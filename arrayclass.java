@@ -56,3 +56,68 @@ public class arrayclass {
 
     }
 }
+
+
+
+
+//2nd code for array implementation 
+
+package com.company;
+
+public class CurrencyConverter {
+//    int rupee = 63;
+//
+//    int dirham = 3; // UAE
+//
+//    int real = 3;  // brazilian
+//
+//    int chilean_peso = 595;
+//
+//    int  mexican_peso = 18;
+//
+//    int _yen = 107;
+//
+//    int $australian = 2;  // australian dollar
+
+//    int dollar;
+//
+//    int Rupee = 63;
+
+
+
+
+     //double[] exchangeRates = new double[]{new }
+
+
+    void printCurrencies(){
+        double[] exchangeRates = new double[7];
+        exchangeRates[0] = 63;
+        exchangeRates[1]=3;
+        exchangeRates[2]=3;
+        exchangeRates[3]=595;
+        exchangeRates[4]=18;
+        exchangeRates[5]=107;
+        exchangeRates[6]=2;
+        System.out.println("rupee:" + exchangeRates[0]);
+        System.out.println("dirham:" + exchangeRates[1] );
+        System.out.println("real:" + exchangeRates[2]);
+        System.out.println("chilean_peso:" + exchangeRates[3]);
+        System.out.println("mexican_peso:" + exchangeRates[4]);
+        System.out.println("yen:" + exchangeRates[5]);
+        System.out.println("$australian:" + exchangeRates[6]);//this same line can also be wriiten in the below manner.
+        System.out.println("$australian:" + exchangeRates[exchangeRates.length-1]);
+        System.out.println("last value:" + exchangeRates.length);
+//        System.out.println("dollar:" + dollar);
+//        System.out.println("Rupee:" + Rupee);
+
+
+    }
+
+    public static void main(String[] args){
+
+
+        CurrencyConverter cc = new CurrencyConverter();
+        cc.printCurrencies();
+    }
+}
+
