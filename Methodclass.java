@@ -1,5 +1,5 @@
 package com.company;
-//This class is for instance methods only.
+//This class is for instance methods only.//
 public class Methodclass {
 
     double[] exchangeRates;//  {63.0,3.0,3.0,595.5,18.0,107.0,2.0};
