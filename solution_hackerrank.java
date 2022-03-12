@@ -1,3 +1,4 @@
+//Day 5 : Simple Java stdin and stdout
 //link:https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true 
 
 //One popular way to read input from stdin is by using the Scanner class and specifying the Input Stream as System.in. 
