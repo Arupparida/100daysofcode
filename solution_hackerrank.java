@@ -2,7 +2,7 @@
 
 //One popular way to read input from stdin is by using the Scanner class and specifying the Input Stream as System.in. 
 
-
+//https://www.geeksforgeeks.org/scanner-nextint-method-in-java-with-examples/#:~:text=The%20nextInt(radix)%20method%20of,past%20the%20input%20that%20matched.
 
 
 
