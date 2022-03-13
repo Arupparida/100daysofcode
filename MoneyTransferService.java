@@ -28,7 +28,7 @@ public class MoneyTransferService {
 //
 //        return exchangeRates[countryIndex];}
 
-//
+//All the above methods present in another java file  has been accessed from this java file by using a single instance variable which is line 33 here..  
 
     Currency_converter2 cc2 = new Currency_converter2();
 
