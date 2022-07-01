@@ -2,6 +2,8 @@
 Contains Duplicate Question - leetcode (Easy level) #DSA begins
 Problem statemnet link - https://leetcode.com/problems/contains-duplicate/
 My Possible solutions 
+
+*/
  class Solution {
      public boolean containsDuplicate(int[] nums) {
          if(nums ==null || nums.length<2)
@@ -36,4 +38,4 @@ My Possible solutions
 //     
 // }
 
-*/
+
